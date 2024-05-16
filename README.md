@@ -5,7 +5,7 @@
 ## 开发
 
 ```bash
-# 克隆项目
+# 克隆若依官方项目
 git clone https://gitee.com/y_project/RuoYi-Vue
 
 # 进入项目目录
