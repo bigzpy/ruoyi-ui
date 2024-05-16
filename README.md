@@ -1,3 +1,7 @@
+# 修改若依官方的 ui 项目，优化自动生成代码的体验。
+# 仍在更新和完善中...
+# 未来加入的功能，自己选择数据源
+
 ## 开发
 
 ```bash
@@ -17,7 +21,7 @@ npm install --registry=https://registry.npmmirror.com
 npm run dev
 ```
 
-浏览器访问 http://localhost:80
+浏览器访问 http://localhost:82
 
 ## 发布
 
